@@ -24,3 +24,4 @@ It's just a server that hosts the git repo online so all developers can work on 
 ## Completed Setup
 1. Magdiel
 2. Diego Cantú (desde github web)
+3. Diego Landeros Pérez
